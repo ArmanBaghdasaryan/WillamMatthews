@@ -1,0 +1,49 @@
+body {
+    background-image: url(img/b_coffee.jpg);
+    margin: auto 0;
+}
+
+.links ul li {
+    display: inline;
+    text-decoration: underline black;
+    margin-left: 3px;
+}
+
+.icon img {
+    float: right;
+
+}
+
+.all {
+    width: 1000px;
+    height: 70px;
+    margin: 0 auto;
+}
+
+.port_1 {
+    margin-right: 113px;
+    float: right;
+    width: 41%;
+    margin-top: 15px;
+}
+
+.port_2 {
+    float: right;
+    margin: 22px;
+    margin-top: 9px;
+}
+
+.port_3 {
+    margin-top: 11px;
+    margin-left: 42px;
+}
+
+.port_4 {
+    margin-left: 55px;
+}
+
+.contact {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
